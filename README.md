@@ -1,10 +1,20 @@
-                            ________ _______ 
- _                         (_______/(_______)
-| |_    ___   ____   _   _    ____        _  
-|  _)  / _ \ |    \ ( \ / )  (___ \      / ) 
-| |__ | |_| || | | | ) X (  _____) )    / /  
- \___) \___/ |_|_|_|(_/ \_)(______/    (_/   
+Hi!
                                              
-I'm a student who wants to rock in C/C++ by coding af, I'm also into Linux ricing, front-back web development and cybersecurity.
-All your suggestions or tip&tricks are well accepted!
-Peace, tomx37.
+I'm a student who wants to became a skilled Software Developer.
+
+Currently I am working on:
+  > C/C++
+  > Visual Basic
+
+but I also plan to add to my stack:
+  > Python
+  > Java
+  > Rust
+  > C#
+
+I like both Windows and Linux and really interested on all cybersecurity topics.
+
+All your suggestions and tip&tricks are well accepted!
+
+See ya! 
+tomx37
