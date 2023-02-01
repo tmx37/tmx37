@@ -3,7 +3,7 @@ Hi!
 I'm a student who wants to became a skilled Software Developer.
 
 Currently I am working on:
-  > C/C++;
+  > C++;
   > 
   > Visual Basic;
 
