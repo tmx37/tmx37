@@ -5,14 +5,12 @@ I'm a student who wants to became a skilled Software Developer.
 Currently I am working on:
   > C++;
   > 
-  > Visual Basic;
+  > C#/VB.Net;
 
 but I also plan to add to my stack:
   > Python;
   > 
   > Rust;
-  > 
-  > C#;
   > 
   > Java;
 
