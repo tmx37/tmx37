@@ -10,14 +10,14 @@ My favorite programming language is C++, and I love solving complex problems thr
   <br />
 </div>
 
-<details open="open">
-  <summary>My Stack</summary>
-  - [C]
-  - [C++]
-  - [C#]
-  - [Python]
-  - [VB.NET]  
-</details>
+<td>
+  **My Stack**:
+  - C
+  - C++
+  - C#
+  - Python
+  - VB.NET  
+</td>
 
 <div>
   <br />
