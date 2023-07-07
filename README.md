@@ -9,16 +9,19 @@ Currently, I am working as a VB.net developer in the tech industry.
 My favorite programming language is C++, and I love solving complex problems through programming.
   <br />
 </div>
-
+---
+<div align="center"> 
 <td>
-  **My Stack**:
+  ==My Stack==
+  <br />
   - C
   - C++
   - C#
   - Python
   - VB.NET  
 </td>
-
+</div>
+---
 <div>
   <br />
 I aspire to work in the game development industry. I am actively learning and exploring OpenGL, Unity, Unreal Engine, and QT, which will help me achieve my dream job.
