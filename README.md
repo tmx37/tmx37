@@ -5,7 +5,7 @@ I am a student who is passionate about software and game development.
 Currently, I am working as a VB.net developer in the tech industry.
 My favorite programming language is C++, and I love solving complex problems through programming.
 
-My stack includes C, C++, C#, and Python, as they allow me to work on a wide range of projects.
+My stack: C, C++, C#, Python and VB.NET
 
 I aspire to work in the game development industry. I am actively learning and exploring OpenGL, Unity, Unreal Engine, and QT, which will help me achieve my dream job.
 
