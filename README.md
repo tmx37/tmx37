@@ -22,7 +22,7 @@ One day, I'd love to to work in game industry as a developer.
 While working on my other projects, I like to learn, develop and study even on OpenGL, Unity, Unreal Engine, and QT.
 
 I am always open to collaborations on projects and i strongly support open-source softwares.
-I believe that learning is a continuous process even (at work), and my whole focus is into improve my own skills.
+I believe that learning is a continuous process (even at work), and my whole focus is into improve my own skills.
 ```
 
 Feel free to contact me if you want to work together.
