@@ -12,8 +12,8 @@ My favorite programming language is C++, and I love solving complex problems thr
 ### My Stack (aka what I can work with):
   * C/C++
   * C#
-  * Python
   * VB.NET  
+  * Python
 ---
 
 ``` 
