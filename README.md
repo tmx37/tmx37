@@ -13,7 +13,7 @@ My favorite programming language is C++, and I love solving complex problems thr
   * C/C++
   * C#
   * VB.NET  
-  * Python
+  * SQL
 ---
 
 ``` 
