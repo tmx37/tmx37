@@ -9,11 +9,11 @@ My favorite programming language is C++, and I love solving complex problems thr
 ```
 
 ---
-### My Stack (aka what I can work with):
+### My Stacks (aka what I can work with):
   * C/C++
   * C#
   * VB.NET
-  * Javascript (React, Node.js)  
+  * MERN (MongoDB, Express.js, React.js and Node.js)
   * SQL
 ---
 
