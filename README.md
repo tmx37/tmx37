@@ -1,29 +1,21 @@
 
 Welcome to my Github profile!
 ===
-I am Tom, a student with passion for software and game development.
-
-``` 
-Currently, I am working as a VB.net developer in the tech industry.
-My favorite programming language is C++, and I love solving complex problems through programming.
-```
+I am Tom, a student with passion for software engineering, software & game development.
+Currently working as a VB.net developer in the tech industry.
 
 ---
-### My Stacks (aka what I can work with):
-  * C/C++
+### Stack ~ I can work with:
+  * C/C++ (my favourite!)
   * C#
   * VB.NET
   * MERN (MongoDB, Express.js, React.js and Node.js)
   * SQL
 ---
 
-``` 
-One day, I'd love to to work in game industry as a developer.
-While working on my other projects, I like to learn, develop and study even on OpenGL, Unity, Unreal Engine, and QT.
-
-I am always open to collaborations on projects and i strongly support open-source softwares.
+I'd love to to work in game industry as a developer.
+I like to learn, develop and study by working on my own projects: I'm always open for any kind of collaboration and strongly belive into open-source softwares.
 I believe that learning is a continuous process (even at work), and my whole focus is into improving my own skills.
-```
 
 Feel free to contact me if you want to work together.
 
