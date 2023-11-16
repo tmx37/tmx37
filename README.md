@@ -9,7 +9,7 @@ Currently working as a VB.net developer in the tech industry.
   * C++ (my favourite!)
   * C#
   * VB.NET
-  * MERN (MongoDB, Express.js, React.js and Node.js)
+  * Javascript: MERN stack (MongoDB + Express.js + React.js + Node.js)
   * SQL
 ---
 
