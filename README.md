@@ -19,6 +19,8 @@ I believe that learning is a continuous process (even at work), and my whole foc
 
 Feel free to contact me if you want to work together.
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="TommaruX3700"/></a>
+
 Bye!
 tommarux37
 
