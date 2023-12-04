@@ -1,7 +1,7 @@
 
 Welcome to my Github profile!
 ===
-Currently working as a VB.net developer in the tech industry, I am a student with passion for software engineering & game development.
+Currently working as a .NET developer in the tech industry, I am a student with passion for software engineering & game development.
 
 ---
 ### Proficient with:
