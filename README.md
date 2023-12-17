@@ -1,7 +1,8 @@
 
 Welcome to my Github profile!
 ===
-Currently working as a .NET developer in the tech industry, I am a student with passion for software engineering & game development.
+I'm tmx37, a C++/VB.NET/JS software developer.
+My favourite programming language is C++ by far, and I love to work in a clean way.
 
 ---
 ### Proficient with:
@@ -20,7 +21,10 @@ Currently working as a .NET developer in the tech industry, I am a student with 
 I believe that learning is a continuous process (even at work), and my whole focus is into improving my own skills.
 I like to learn, develop and study by working on my own projects: I'm always open for any kind of collaboration and strongly belive into open-source softwares.
 
-One day, I'd love to to work in game industry as a developer.
+I currently have a job as a VB.NET Software Developer Intern and I worki on many personal projects, such as:
+- "EPS: Easy Pallet Solutions": A desktop application for box sorting on pallets involving MVC design pattern, C++, and Python;
+- Tensorflow 2.0 with Python;
+- Some more WebApps and API integrations for my home network with the MERN fullstack (MongoDB, Express, React.js, and Node.js).
 
 Feel free to contact me on:
 
