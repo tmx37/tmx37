@@ -26,6 +26,8 @@ I currently have a job as a VB.NET Software Developer Intern and I worki on many
 - Tensorflow 2.0 with Python;
 - Some more WebApps and API integrations for my home network with the MERN fullstack (MongoDB, Express, React.js, and Node.js).
 
+---
+
 Feel free to contact me on:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmx37.dev@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/501462424944115722) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-maruzzo-339692237/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tommasomaruzzo)
